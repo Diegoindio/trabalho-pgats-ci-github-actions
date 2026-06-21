@@ -37,7 +37,7 @@ jobs:
 
       # instalação das dependências
       - name: Instalando dependências
-        run: npm install
+        run: npm ci
 
       # inspeção simples de sintaxe do código
       - name: Inspeção de Código
@@ -60,7 +60,7 @@ jobs:
 
       # instalação das dependências
       - name: Instalando dependências
-        run: npm install
+        run: npm ci
 
       # rodando testes unitários com relatório
       - name: Rodando testes unitários
