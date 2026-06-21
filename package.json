@@ -1,0 +1,24 @@
+{
+  "name": "sistema-de-pagamentos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegoindio/sistema-de-pagamentos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Diegoindio/sistema-de-pagamentos/issues"
+  },
+  "homepage": "https://github.com/Diegoindio/sistema-de-pagamentos#readme",
+  "dependencies": {
+    "mocha": "^11.7.6"
+  }
+}
